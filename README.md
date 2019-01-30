@@ -1,7 +1,7 @@
 # AnalisisDatos
 Proyecto analisis de sentimientos
 * Integrantes:
--- Henry Cushicondor
+- Henry Cushicondor
 - Edwin Puco
 - Ginger Sipion
 
