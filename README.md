@@ -1,3 +1,8 @@
 # AnalisisDatos
 Proyecto analisis de sentimientos
-- Proyecto analisis de sentimiento usando redes neuronales
+* Integrantes:
+- Henry Cushicondor
+- Edwin Puco
+- Ginger Sipion
+
+- Proyecto analisis de sentimiento usando redes neuronales profundas
