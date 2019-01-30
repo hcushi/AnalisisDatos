@@ -5,4 +5,4 @@ Proyecto analisis de sentimientos
 - Edwin Puco
 - Ginger Sipion
 
-- Proyecto analisis de sentimiento usando redes neuronales profundas
+* Proyecto analisis de sentimiento usando redes neuronales profundas
